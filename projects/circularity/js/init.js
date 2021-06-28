@@ -33,14 +33,14 @@ var init = function (window) {
 
 
         // TODO 3 / 8 : Call the drawCircle() function 
-        //for (var i = 0; i < 100; i++) {
-        //    drawCircle();        
-        //}
-        drawCircle();
-        drawCircle();
-        drawCircle();
-        drawCircle();
-        drawCircle();
+        for (var i = 0; i < 100; i++) {
+            drawCircle();        
+        }
+        //drawCircle();
+        //drawCircle();
+        //drawCircle();
+        //drawCircle();
+        //drawCircle();
 
         ////////////////////////////////////////////////////////////
         ///////////////// PROGRAM LOGIC ////////////////////////////
